@@ -1,0 +1,25 @@
+
+*.pdf
+*.png
+*.jpeg
+*.h5
+*.docx
+*.jpg
+*.csv
+*.xls
+*.xml
+*.txt
+*.data-00000-of-00001
+*.xlsx
+*.zip
+AutomaticSpeechRecognition/Literatür/fav-000 TR Deep Learning Türkçe Sözlü Ders Anlatımları için Otomatik Yazılandırma ve Geri Getirim Sisteminin Geliştirilmesi
+*.rar
+*.tar.gz
+*.tar
+*.exe
+*.model
+*.word2vec
+ImageProcessing\OpenCV\NesneTanima\frozen_inference_graph.pb
+Python_Full/*
+*.lnk
+
