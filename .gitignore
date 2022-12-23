@@ -20,9 +20,10 @@ AutomaticSpeechRecognition/Literatür/fav-000 TR Deep Learning Türkçe Sözlü 
 *.model
 *.word2vec
 ImageProcessing\OpenCV\NesneTanima\frozen_inference_graph.pb
-Python_Full/*
+Python-Temel/Python_Full/*
 *.lnk
 BTK-Keras/*
 BTK-Python ile Makine Öğrenmesi/*
 BTK-PythonTensorflow/*
+veri-analiz/*
 
