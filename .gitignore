@@ -12,7 +12,7 @@
 *.data-00000-of-00001
 *.xlsx
 *.zip
-AutomaticSpeechRecognition/Literatür/fav-000 TR Deep Learning Türkçe Sözlü Ders Anlatımları için Otomatik Yazılandırma ve Geri Getirim Sisteminin Geliştirilmesi
+AutomaticSpeechRecognition/Literatür/*
 *.rar
 *.tar.gz
 *.tar
@@ -27,4 +27,6 @@ BTK-Python ile Makine Öğrenmesi/*
 BTK-PythonTensorflow/*
 veri-analiz/*
 Qisqit/*
-
+.idea
+venv
+__pycache__
