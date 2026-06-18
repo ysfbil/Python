@@ -17,13 +17,13 @@ https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="Favoriler",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="DIYANET.tr" tvg-name="DIYANET TV" tvg-logo="https://www.diyanet.tv/Diyanet-Theme/images/logo.png" group-title="Favoriler",DIYANET TV
+#EXTINF:-1 tvg-id="DIYANET.tr" tvg-name="DIYANET TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/TRT_Diyanet_horizontal.JPG" group-title="Favoriler",DIYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="Haber Global" tvg-logo="https://i.ibb.co/4ZpZWkf/haber-global.png" group-title="Favoriler",HABER GLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 
-#EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-name="Haberturk" tvg-logo="https://images.seeklogo.com/logo-png/30/2/haberturk-tv-ve-gazete-logo-png_seeklogo-307034.png" group-title="Favoriler",Haberturk
+#EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-name="Haberturk" tvg-logo="https://www.medyaloji.net/hbrResim/Haberturk-gazetesine-deneyimli-transfer-7431.jpeg" group-title="Favoriler",Haberturk
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="Favoriler",NTV
@@ -46,7 +46,7 @@ http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360 TV" tvg-logo="https://icon2.cleanpng.com/20180618/jhr/kisspng-0-fox-television-channel-tv8-5b278ca9033a65.8056938715293185690132.jpg" group-title="Haber",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
-#EXTINF:-1 tvg-id="24TV.tr" tvg-name="24 TV" tvg-logo="https://images.seeklogo.com/logo-png/17/1/yirmi-dort-tv-24-tv-logo-png_seeklogo-179631.png" group-title="Haber",24 TV
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="24 TV" tvg-logo="https://i.ytimg.com/vi/qv3SoW47aKk/maxresdefault.jpg" group-title="Haber",24 TV
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 
 #EXTINF:-1 tvg-id="EkolHaber.tr" tvg-name="Ekol Haber" tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png" group-title="Haber",Ekol Haber
@@ -64,7 +64,7 @@ https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web
 #EXTINF:-1 tvg-id="ULKE.tr" tvg-name="ULKE TV" tvg-logo="https://i.imgur.com/wdWR7Qk.png" group-title="Haber",ULKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="gzt.tr" tvg-name="gzt" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" group-title="Haber",gzt
+#EXTINF:-1 tvg-id="gzt.tr" tvg-name="gzt" tvg-logo="https://www.albayrak.com.tr/en/wp-content/uploads/2022/09/gzt.jpg" group-title="Haber",gzt
 https://gzttv-live.lg.mncdn.com/gzttv/gzttv/chunklist.m3u8
 
 # ==================== TRT ====================
@@ -163,7 +163,7 @@ https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-id="LifeTV.tr" tvg-name="LIFE TV" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="Genel",LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MeclisTV.tr" tvg-name="TBMM TV" tvg-logo="https://images.seeklogo.com/logo-png/61/2/tbmm-tv-logo-png_seeklogo-612581.png" group-title="Genel",TBMM TV
+#EXTINF:-1 tvg-id="MeclisTV.tr" tvg-name="TBMM TV" tvg-logo="https://m.gunhaber.com.tr/haber_resim/Vekile-tatil-yok-calismaya-devam-503479.jpg" group-title="Genel",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 
 #EXTINF:-1 tvg-id="MELTEM.tr" tvg-name="Meltem TV" tvg-logo="https://i.imgur.com/C3m6w5S.png" group-title="Genel",Meltem TV
@@ -175,10 +175,10 @@ https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
 #EXTINF:-1 tvg-id="Semerkand.tr" tvg-name="Semarkand TV" tvg-logo="https://i.imgur.com/UVGGrQd.png" group-title="Genel",Semarkand TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg" group-title="Genel",Show TV
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://mo.ciner.com.tr/showtv/iu/1920x1080_5/yerli-dizi.jpg" group-title="Genel",Show TV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://images.seeklogo.com/logo-png/48/2/star-tv-logo-png_seeklogo-483978.png" group-title="Genel",Star TV
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://turkey.mom-gmr.org/uploads/tx_lfrogmom/media/261-101_import.png" group-title="Genel",Star TV
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
 #EXTINF:-1 tvg-id="ciftci.tr" tvg-name="ciftci" tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_25.png" group-title="Genel",Çiftçi TV
