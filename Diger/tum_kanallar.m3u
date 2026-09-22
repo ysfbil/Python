@@ -49,24 +49,21 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="24TV.tr" tvg-name="24 TV" tvg-logo="https://i.ytimg.com/vi/qv3SoW47aKk/maxresdefault.jpg" group-title="Haber",24 TV
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 
-#EXTINF:-1 tvg-id="EkolHaber.tr" tvg-name="Ekol Haber" tvg-logo="https://i.ibb.co/Ln92Dj2/Ekoltv.png" group-title="Haber",Ekol Haber
-https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
-
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT HABER" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="Haber",TGRT HABER
 https://canli.tgrthaber.com/tgrt.m3u8
 
 #EXTINF:-1 tvg-id="TurkHaberTV.tr" tvg-name="TURKHABER" tvg-logo="https://i.ibb.co/ySv65wg/turk-haber.png" group-title="Haber",TURKHABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV 100" tvg-logo="https://i.ibb.co/zZnBCWt/tv100.png" group-title="Haber",TV 100
-https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web
-
 #EXTINF:-1 tvg-id="ULKE.tr" tvg-name="ULKE TV" tvg-logo="https://i.imgur.com/wdWR7Qk.png" group-title="Haber",ULKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="gzt.tr" tvg-name="gzt" tvg-logo="https://www.albayrak.com.tr/en/wp-content/uploads/2022/09/gzt.jpg" group-title="Haber",gzt
-https://gzttv-live.lg.mncdn.com/gzttv/gzttv/chunklist.m3u8
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="BEYAZ TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="Genel",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
+
+#EXTINF:-1 tvg-id="NeoHaber.tr" tvg-name="Neo Haber" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/neo-haber-buyuk.png" group-title="Haber",Neo Haber
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 # ==================== TRT ====================
 
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-name="TRT ARABI" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-arabi-televizyon-kanali.e9524cc.png" group-title="TRT",TRT ARABI
@@ -104,9 +101,6 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor" tvg-logo="https://iaspr.tmgrup.com.tr/site/v3/i/og-aspor.jpeg" group-title="Spor",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 
-#EXTINF:-1 tvg-id="EkolSportsTV.tr" tvg-name="Ekol Sports" tvg-logo="https://i.ibb.co/Y4tR1tTm/Ekolsports.jpg" group-title="Spor",Ekol Sports
-https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
-
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-name="FB TV" tvg-logo="https://i.ibb.co/315SYpK/fb-tv.png" group-title="Spor",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 
@@ -121,20 +115,10 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-name="BENGU TURK" tvg-logo="https://i.ibb.co/CHWhMvQ/bengu-turk.png" group-title="Genel",BENGU TURK
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 
-#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="BEYAZ TV" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="Genel",BEYAZ TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" tvg-logo="https://logowik.com/content/uploads/images/bloomberg-ht7836.jpg" group-title="Genel",Bloomberg HT
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 
-#EXTINF:-1 tvg-id="CAN.tr" tvg-name="CAN TV" tvg-logo="https://i.imgur.com/oIMtuwB.png" group-title="Genel",CAN TV
-http://canbroadcast.com:7000/canlican/tv.m3u8
-
-#EXTINF:-1 tvg-id="Ciftci.tr" tvg-name="Ciftci TV" tvg-logo="https://i.imgur.com/CLzP4vL.png" group-title="Genel",Ciftci TV
-https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cine1.tr" tvg-name="Cine 1 TV" tvg-logo="https://cine1.com.tr/img/cine1loogo.png" group-title="Genel",Cine 1 TV
-http://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 
 #EXTINF:-1 tvg-id="CNBC-E.tr" tvg-name="CNBC-E" tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png" group-title="Genel",CNBC-E
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
@@ -157,8 +141,6 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://www.efsanebayrak.com/upload_images/kanal-d-12-02-2025-154714.jpg" group-title="Genel",Kanal D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Lalegul.tr" tvg-name="Lalegul TV" tvg-logo="https://i.imgur.com/wwCysFs.png" group-title="Genel",Lalegul TV
-https://lbl.netmedya.net/hls/lalegultv.m3u8
 
 #EXTINF:-1 tvg-id="LifeTV.tr" tvg-name="LIFE TV" tvg-logo="https://i.ibb.co/9hCVNks/life-tv.png" group-title="Genel",LIFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
