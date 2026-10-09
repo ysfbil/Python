@@ -6,7 +6,7 @@
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="tvnet.tr" tvg-name="tvnet" tvg-logo="https://www.tvnet.com.tr/img/index-image.jpg" group-title="Favoriler",tvnet
-https://tvnet-live.lg.mncdn.com/tvnet/tvnet/chunklist.m3u8
+https://tvnet-live.lg.mncdn.com/tvnet-live/tvnet/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="Favoriler",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
